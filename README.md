@@ -8,6 +8,9 @@ A **React-based Game Hub** featuring multiple mini-games:
 - ⌨️ **Typing Game**  
 - 🍀 **Lucky Number Game**
 
+🔗 **Live MVP Demo**
+
+ 
 ---
 
 ## 🚀 Features
