@@ -31,5 +31,3 @@ Open your terminal in the project folder:
 npm install
 npm start
 
-
-
