@@ -30,4 +30,3 @@ Open your terminal in the project folder:
 ```bash
 npm install
 npm start
-
